@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "alexsdelight:items/minced_raw_kangaroo"
+    "layer0": "alexsdelight:items/minced_kangaroo"
   }
 }
