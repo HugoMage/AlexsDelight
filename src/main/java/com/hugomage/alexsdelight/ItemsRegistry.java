@@ -28,6 +28,7 @@ public class ItemsRegistry {
 
     // Items
     public static final RegistryObject<Item> MUNGUS_GUMMIE = ITEMS.register("mungus_gummie", MungusGummie::new);
+    public static final RegistryObject<Item> CHEESE_PASTA = ITEMS.register("cheese_pasta", CheesePasta::new);
     public static final RegistryObject<Item> BLOBFISH_SOUP = ITEMS.register("blobfish_soup", BlobfishSoup::new);
     public static final RegistryObject<Item> MINCED_KANGAROO = ITEMS.register("minced_raw_kangaroo", MincedKangaroo::new);
     public static final RegistryObject<Item> MINCED_COOKED_KANGAROO = ITEMS.register("minced_cooked_kangaroo", MincedCookedKangaroo::new);
