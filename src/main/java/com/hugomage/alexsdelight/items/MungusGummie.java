@@ -11,7 +11,7 @@ public class MungusGummie extends Item {
                 .tab(ItemGroup.TAB_FOOD)
                 .fireResistant()
                 .food(new Food.Builder()
-                                .nutrition(1).saturationMod(1).build()
+                                .nutrition(1).saturationMod(0.1F).build()
         )
 
 

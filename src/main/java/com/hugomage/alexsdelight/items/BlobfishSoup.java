@@ -1,8 +1,12 @@
 package com.hugomage.alexsdelight.items;
 
-import net.minecraft.item.Food;
-import net.minecraft.item.Item;
-import net.minecraft.item.ItemGroup;
+import net.minecraft.advancements.CriteriaTriggers;
+import net.minecraft.entity.LivingEntity;
+import net.minecraft.entity.player.PlayerEntity;
+import net.minecraft.entity.player.ServerPlayerEntity;
+import net.minecraft.item.*;
+import net.minecraft.stats.Stats;
+import net.minecraft.world.World;
 
 public class BlobfishSoup extends Item {
 
@@ -10,11 +14,14 @@ public class BlobfishSoup extends Item {
         super(new Properties()
                 .tab(ItemGroup.TAB_FOOD)
                 .fireResistant()
+                .stacksTo(1)
                 .food(new Food.Builder()
-                                .nutrition(5).saturationMod(4).build()));
+                                .nutrition(5).saturationMod(0.9F)
+                        .build()));
     }
 
-public ItemStack finishUsingItem(ItemStack p_77654_1_, World p_77654_2_, LivingEntity p_77654_3_) {
+public ItemStack finishUsingItem(
+        ItemStack p_77654_1_, World p_77654_2_, LivingEntity p_77654_3_) {
         if (p_77654_3_ instanceof ServerPlayerEntity) {
             ServerPlayerEntity serverplayerentity = (ServerPlayerEntity)p_77654_3_;
             CriteriaTriggers.CONSUME_ITEM.trigger(serverplayerentity, p_77654_1_);

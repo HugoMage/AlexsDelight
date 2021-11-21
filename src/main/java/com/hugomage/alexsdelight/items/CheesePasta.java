@@ -1,8 +1,12 @@
 package com.hugomage.alexsdelight.items;
 
-import net.minecraft.item.Food;
-import net.minecraft.item.Item;
-import net.minecraft.item.ItemGroup;
+import net.minecraft.advancements.CriteriaTriggers;
+import net.minecraft.entity.LivingEntity;
+import net.minecraft.entity.player.PlayerEntity;
+import net.minecraft.entity.player.ServerPlayerEntity;
+import net.minecraft.item.*;
+import net.minecraft.stats.Stats;
+import net.minecraft.world.World;
 
 public class CheesePasta extends Item {
 
@@ -10,8 +14,9 @@ public class CheesePasta extends Item {
         super(new Properties()
                 .tab(ItemGroup.TAB_FOOD)
                 .fireResistant()
+                .stacksTo(1)
                 .food(new Food.Builder()
-                                .nutrition(4).saturationMod(2).build()
+                                .nutrition(4).saturationMod(0.7F).build()
         )
 
 

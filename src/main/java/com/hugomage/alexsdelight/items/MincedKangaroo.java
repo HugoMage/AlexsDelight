@@ -11,7 +11,7 @@ public class MincedKangaroo extends Item {
                 .tab(ItemGroup.TAB_FOOD)
                 .fireResistant()
                 .food(new Food.Builder()
-                                .nutrition(2).saturationMod(1).build()
+                                .nutrition(2).saturationMod(0.3F).build()
         )
 
 
