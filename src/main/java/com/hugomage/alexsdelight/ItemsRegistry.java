@@ -35,7 +35,12 @@ public class ItemsRegistry {
     public static final RegistryObject<Item> CHEESE_CAKE_SLICE = ITEMS.register("cheesecake_slice", CheeseCakeSlice::new);
     public static final RegistryObject<Item> GRILLED_CHEESE = ITEMS.register("grilled_cheese_sandwich", GrilledCheese::new);
     public static final RegistryObject<Item> FRIED_CHEESE = ITEMS.register("fried_cheese", FriedCheese::new);
-
+    public static final RegistryObject<Item> MUNGUS_JELLY_SANDWICH = ITEMS.register("mungus_jelly_sandwich", MungusJellySandwich::new);
+    public static final RegistryObject<Item> ICE_DRAGON_ALE = ITEMS.register("ice_dragon_ale", IceDragonAle::new);
+    public static final RegistryObject<Item> FIRE_DRAGON_ALE = ITEMS.register("fire_dragon_ale", FireDragonAle::new);
+    public static final RegistryObject<Item> LIGHTNING_DRAGON_ALE = ITEMS.register("lightning_dragon_ale", LightningDragonAle::new);
+    public static final RegistryObject<Item> LOBSTERPOTATOES = ITEMS.register("lobster_and_potatoes", LobsterPotatoes::new);
+    public static final RegistryObject<Item> SEAFOOD_SOUP = ITEMS.register("seafood_soup", SeaFoodSoup::new);
 
 
 }
