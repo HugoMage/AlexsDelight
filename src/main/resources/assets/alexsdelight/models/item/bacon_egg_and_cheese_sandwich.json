@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "alexsdelight:items/bacon_egg_cheese_sandwich"
+  }
+}
