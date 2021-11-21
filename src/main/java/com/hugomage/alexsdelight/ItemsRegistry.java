@@ -41,6 +41,7 @@ public class ItemsRegistry {
     public static final RegistryObject<Item> LIGHTNING_DRAGON_ALE = ITEMS.register("lightning_dragon_ale", LightningDragonAle::new);
     public static final RegistryObject<Item> LOBSTERPOTATOES = ITEMS.register("lobster_and_potatoes", LobsterPotatoes::new);
     public static final RegistryObject<Item> SEAFOOD_SOUP = ITEMS.register("seafood_soup", SeaFoodSoup::new);
+    public static final RegistryObject<Item> SEAFOOD_PASTA = ITEMS.register("seafood_pasta", SeafoodPasta::new);
 
 
 }
