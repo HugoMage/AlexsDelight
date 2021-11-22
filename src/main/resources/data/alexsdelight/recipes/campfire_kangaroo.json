@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "alexsdelight:minced_raw_kangaroo"
+  },
+  "result": "alexsdelight:minced_cooked_kangaroo",
+  "experience": 0.35,
+  "cookingtime": 600
+}

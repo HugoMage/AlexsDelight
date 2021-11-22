@@ -1,0 +1,24 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "alexsmobs:cooked_lobster_tail"
+    },
+    {
+      "item": "farmersdelight:raw_pasta"
+    },
+    {
+      "item": "minecraft:ink_sac"
+    },
+    {
+      "tag": "forge:raw_fishes"
+    },
+    {
+      "item": "farmersdelight:tomato_sauce"
+    }
+  ],
+  "result": {
+    "item": "alexsdelight:seafood_pasta"
+  },
+  "cookingtime": 200
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "alexsmobs:cooked_lobster_tail"
+    },
+    {
+      "item": "minecraft:potato"
+    }
+  ],
+  "result": {
+    "item": "alexsdelight:mungus_gummy"
+  }
+}

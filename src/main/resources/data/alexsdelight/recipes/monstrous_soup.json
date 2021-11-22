@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "alexsmobs:blobfish"
+    },
+    {
+      "item": "minecraft:spider_eye"
+    },
+    {
+      "item": "alexsmobs:maggot"
+    },
+    {
+      "item": "minecraft:rotten_flesh"
+    }
+  ],
+  "result": {
+    "item": "alexsdelight:monstrous_soup"
+  },
+  "cookingtime": 200
+}

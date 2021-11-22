@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "alexsdelight:raw_rat_leg"
+  },
+  "result": "alexsdelight:cooked_rat_leg",
+  "experience": 0.35,
+  "cookingtime": 100
+}

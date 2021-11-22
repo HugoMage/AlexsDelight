@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "farmersdelight:cabbage"
+    },
+    {
+      "item": "farmersdelight:tomato"
+    },
+    {
+      "item": "farmersdelight:onion"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "alexsdelight:cooked_rat_leg"
+    }
+  ],
+  "result": {
+    "item": "alexsdelight:rat_kebab",
+    "count": 3
+  }
+}

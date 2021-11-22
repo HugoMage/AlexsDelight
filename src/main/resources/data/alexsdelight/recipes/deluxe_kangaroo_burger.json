@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "alexsdelight:minced_cooked_kangaroo"
+    },
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "forge:cheese"
+    },
+    {
+      "item": "farmersdelight:tomato"
+    },
+    {
+      "item": "farmersdelight:cabbage"
+    },
+    {
+      "item": "farmersdelight:onion"
+    }
+  ],
+  "result": {
+    "item": "alexsdelight:deluxe_kangaroo_burger"
+  }
+}

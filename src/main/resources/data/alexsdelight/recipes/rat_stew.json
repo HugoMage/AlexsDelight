@@ -1,0 +1,18 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "alexsdelight:cooked_rat_leg"
+    }
+  ],
+  "result": {
+    "item": "alexsdelight:rat_stew"
+  },
+  "cookingtime": 200
+}
