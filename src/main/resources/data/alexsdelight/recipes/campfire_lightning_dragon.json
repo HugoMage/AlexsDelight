@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "alexsdelight:lightning_dragon_flesh_cuts"
+  },
+  "result": "alexsdelight:cooked_lightning_dragon_flesh_cuts",
+  "experience": 0.35,
+  "cookingtime": 600
+}

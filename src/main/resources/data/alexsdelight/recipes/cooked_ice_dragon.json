@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "alexsdelight:ice_dragon_flesh_cuts"
+  },
+  "result": "alexsdelight:cooked_ice_dragon_flesh_cuts",
+  "experience": 0.35,
+  "cookingtime": 200
+}
