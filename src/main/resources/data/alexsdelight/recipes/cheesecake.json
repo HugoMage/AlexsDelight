@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:cheese"
+    },
+    {
+      "tag": "forge:cheese"
+    },
+    {
+      "tag": "forge:cheese"
+    },
+    {
+      "tag": "forge:cheese"
+    },
+    {
+      "tag": "forge:cheese"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "farmersdelight:pie_crust"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "alexsdelight:cheesecake"
+  }
+}

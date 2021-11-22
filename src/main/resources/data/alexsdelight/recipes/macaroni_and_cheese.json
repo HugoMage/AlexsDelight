@@ -1,0 +1,15 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "farmersdelight:raw_pasta"
+    },
+    {
+      "tag": "forge:cheese"
+    }
+  ],
+  "result": {
+    "item": "alexsdelight:seafood_pasta"
+  },
+  "cookingtime": 200
+}

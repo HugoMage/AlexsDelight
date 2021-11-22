@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "iceandfire:lightning_dragon_flesh"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": [
+    {
+      "item": "alexsdelight:lightning_dragon_flesh_cuts",
+      "count": 2
+    }
+  ]
+}

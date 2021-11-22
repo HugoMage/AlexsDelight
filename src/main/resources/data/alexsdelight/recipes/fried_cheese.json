@@ -1,0 +1,12 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "forge:cheese"
+    }
+  ],
+  "result": {
+    "item": "alexsdelight:fried_cheese"
+  },
+  "cookingtime": 200
+}

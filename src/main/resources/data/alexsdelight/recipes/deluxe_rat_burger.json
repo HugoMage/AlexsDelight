@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rats:cooked_rat"
+    },
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "forge:cheese"
+    },
+    {
+      "item": "farmersdelight:tomato"
+    },
+    {
+      "item": "farmersdelight:cabbage"
+    },
+    {
+      "item": "farmersdelight:onion"
+    }
+  ],
+  "result": {
+    "item": "alexsdelight:rat_cheeseburger"
+  }
+}

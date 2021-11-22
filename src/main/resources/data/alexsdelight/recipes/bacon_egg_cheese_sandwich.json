@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "forge:cheese"
+    },
+    {
+      "item": "farmersdelight:fried_egg"
+    },
+    {
+      "item": "farmersdelight:cooked_bacon"
+    }
+  ],
+  "result": {
+    "item": "alexsdelight:bacon_egg_and_cheese_sandwich"
+  }
+}
